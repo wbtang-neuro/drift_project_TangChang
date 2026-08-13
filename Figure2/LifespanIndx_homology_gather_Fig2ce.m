@@ -3,7 +3,7 @@ clear all
 close all
 %% add base codes to path
 addpath(genpath('C:\Users\Cornell\Documents\GitHub\neurocode')) % AYA lab neurocode
-addpath(genpath('C:\Users\Cornell\Documents\Drift_Cell_Tang2025\toolbox\codetyt-PersistentHomologyOnMATLAB')) %(co)homology toolbox
+addpath(genpath('C:\Users\Cornell\Documents\drift_project\toolbox\codetyt-PersistentHomologyOnMATLAB')) %(co)homology toolbox
 %% data list
 % familiar-novel (M1-M2), day 1, [animal, day, epoch, dimensions]
 animal_info = [{'PPP7'},{12},{3},{[1,2]};...
