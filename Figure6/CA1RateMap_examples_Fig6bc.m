@@ -3,7 +3,7 @@ clear all
 close all
 %% add codes to path
 addpath(genpath('C:\Users\Cornell\Documents\GitHub\neurocode')) % AYA lab neurocode
-addpath(genpath('C:\Users\Cornell\Documents\Drift_Cell_Tang2025\toolbox\matplotlib')) % colormap toolbox
+addpath(genpath('C:\Users\Cornell\Documents\drift_project\toolbox\matplotlib')) % colormap toolbox
 defaultGraphicsSetttings % graphic settings
 %% define data
 dir = 'U:\data\Zutshi_Neuron2021\CA3_mEC\'; % data folder
