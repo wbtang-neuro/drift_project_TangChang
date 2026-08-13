@@ -4,7 +4,7 @@ clear all;
 %% add codes to path
 defaultGraphicsSetttings % graphic settings
 addpath(genpath('C:\Users\Cornell\Documents\GitHub\neurocode')) % AYA lab neurocode
-addpath(genpath('C:\Users\Cornell\Documents\Drift_Cell_Tang2025\toolbox\matplotlib')) % colormap toolbox
+addpath(genpath('C:\Users\Cornell\Documents\drift_project\toolbox\matplotlib')) % colormap toolbox
 %% define data
 dir = 'W:\data\PPP\'; % data folder
 animalprefix = 'PVR4';
