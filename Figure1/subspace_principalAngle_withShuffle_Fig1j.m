@@ -3,7 +3,7 @@ clear all
 close all
 %% add base codes to path 
 addpath(genpath('C:\Users\Cornell\Documents\GitHub\neurocode')) % AYA lab neurocode
-addpath(genpath('C:\Users\Cornell\Documents\Drift_Cell_Tang2025\toolbox\matplotlib')) % colormap toolbox
+addpath(genpath('C:\Users\Cornell\Documents\drift_project\toolbox\matplotlib')) % colormap toolbox
 defaultGraphicsSetttings % graphics settings
 %% list of data
 drift_remap = 1; % 1: run on the drift (M1-M1') data; 0: run on the remap (M1-M2) data
