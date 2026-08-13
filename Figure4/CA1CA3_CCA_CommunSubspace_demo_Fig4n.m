@@ -3,7 +3,7 @@ clear all;
 clc
 %% add base codes to path
 addpath(genpath('C:\Users\Cornell\Documents\GitHub\neurocode')) % AYA lab neurocode
-addpath(genpath('C:\Users\Cornell\Documents\Drift_Cell_Tang2025\toolbox\canonical-correlation-maps-main')) % communication subspace toolbox (Canonical Correlation Analysis,CCA), see Semedo 2022
+addpath(genpath('C:\Users\Cornell\Documents\drift_project\toolbox\canonical-correlation-maps-main')) % communication subspace toolbox (Canonical Correlation Analysis,CCA), see Semedo 2022
 defaultGraphicsSetttings % graphic settings
 %% define data
 dir = 'W:\data\PPP\'; % data folder
