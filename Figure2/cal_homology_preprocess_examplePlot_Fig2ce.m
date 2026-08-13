@@ -6,9 +6,9 @@ clear all
 close all
 %% add base codes to path
 addpath(genpath('C:\Users\Cornell\Documents\GitHub\neurocode')) % AYA lab neurocode
-addpath(genpath('C:\Users\Cornell\Documents\Drift_Cell_Tang2025\toolbox\slanCM\slanCM\')) % colormap toolbox
-addpath(genpath('C:\Users\Cornell\Documents\Drift_Cell_Tang2025\toolbox\umapAndEppFileExchange (4.1)')) % UMAP toolbox
-addpath(genpath('C:\Users\Cornell\Documents\Drift_Cell_Tang2025\toolbox\codetyt-PersistentHomologyOnMATLAB')) %(co)homology toolbox
+addpath(genpath('C:\Users\Cornell\Documents\drift_project\toolbox\slanCM\slanCM\')) % colormap toolbox
+addpath(genpath('C:\Users\Cornell\Documents\drift_project\toolbox\umapAndEppFileExchange (4.1)')) % UMAP toolbox
+addpath(genpath('C:\Users\Cornell\Documents\drift_project\toolbox\codetyt-PersistentHomologyOnMATLAB')) %(co)homology toolbox
 defaultGraphicsSetttings % graphic settings
 %% define data
 dir = 'W:\data\PPP\'; % data folder
