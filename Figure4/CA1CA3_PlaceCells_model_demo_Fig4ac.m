@@ -7,7 +7,7 @@ close all
 clear all
 clc
 %% add base codes to path
-addpath(genpath('C:\Users\Cornell\Documents\Drift_Cell_Tang2025\toolbox\representation-drift-main')) % base codes from Shanshan Qin 
+addpath(genpath('C:\Users\Cornell\Documents\drift_project\toolbox\representation-drift-main')) % base codes from Shanshan Qin 
 %% setting for the graphics
 defaultGraphicsSetttings
 
