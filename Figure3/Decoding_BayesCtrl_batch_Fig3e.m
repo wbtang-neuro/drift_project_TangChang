@@ -3,7 +3,7 @@ clc
 clear all
 close all
 %% add base codes to path
-addpath(genpath('/Users/wt248/Documents/Remote_HMM_files/AYALab_Code/')) % AYA lab neurocode
+addpath(genpath('C:\Users\Cornell\Documents\GitHub\neurocode')) % AYA lab neurocode
 %% data list, [animal, day, template epoch - testing epoch]
 % M1-M2 session pairs
 animal_info = [{'PPP7'},{12},{[3,5]};...
