@@ -55,8 +55,8 @@ FILES and FOLDERS
   ./Figure3   : subfolder containing scripts for Figure 3
   ./Figure4   : subfolder containing scripts for Figure 4  
   ./Figure5   : subfolder containing scripts for Figure 5
-  ./Figure5   : subfolder containing scripts for Figure 6
-  ./Figure5   : subfolder containing scripts for Figure 7
+  ./Figure6   : subfolder containing scripts for Figure 6
+  ./Figure7   : subfolder containing scripts for Figure 7
   ./src       : subfolder containing demonstrations of key analysis functions
   ./utilities : subfolder containing all the helper functions.
   ./toolbox   : subfolder containing all the toolboxes used. Please refer to the original work by the developers (see the Toolboxes section for more details).
@@ -66,7 +66,7 @@ CITING OUR WORK
 ===============
 
 If you find the code useful, please cite the code source and the paper:
-Tang, W.*, Chang, H.*, Liu, C., Perez-Hernandez, S., Zheng, W. Y., Park, J., ... & Fernandez-Ruiz, A. (2025). Circuit mechanisms for disentangled representations and generalization in the hippocampus. Nature Neuroscience, 2026.
+Tang, W.*, Chang, H.*, Liu, C., Perez-Hernandez, S., Zheng, W. Y., Park, J., ... & Fernandez-Ruiz, A. (2026). Circuit mechanisms for disentangled representations and generalization in the hippocampus. Nature Neuroscience, 2026.
 
 OR    
 Tang, W.*, Chang, H.*, Liu, C., Perez-Hernandez, S., Zheng, W. Y., Park, J., ... & Fernandez-Ruiz, A. (2025). A hippocampal population code for rapid generalization. bioRxiv, 2025-03.
